@@ -1,0 +1,7 @@
+defeatbeta_api
+python-telegram-bot
+openai
+requests
+python-dotenv
+beautifulsoup4
+python-dateutil
